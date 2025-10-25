@@ -329,6 +329,24 @@
         "Hides the button to open the menu, use the <cl>Tab</c> or <cl>Insert</c> key to open the mod menu": "",
         "Allow dragging the ball on screen": "",
         "Saves the position of the ball on screen between sessions": "",
-        "Makes the mod menu button fade instantly": ""
+        "Makes the mod menu button fade instantly": "",
+        "Import From File": "",
+        "Animation": "",
+        "Menu": "",
+        "Button": "",
+        "Theme": "",
+        "About": "",
+        "Set Language": "",
+        "Manage Keybinds": "",
+        "Normal": "",
+        "Gameplay": "",
+        "Editor": "",
+        "Opacity": "",
+        "Misc": "",
+        "Scale:": "",
+        "Disable in editor:": "",
+        "Disable ingame:": "Disable ingame:",
+        "Gradient": "",
+        "Darken": ""
     }
 }
